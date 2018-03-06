@@ -17,8 +17,8 @@
 * 有名管道
 > 有名管道也是半双工的通信方式，但是它允许无亲缘关系进程间的通信。
 
-[fifo_read](../06_IPC/fifo_read.c)
-[fifo_write](../06_IPC/fifo_write.c)
+[fifo_read](../06_IPC/fifo_read.c)  
+[fifo_write](../06_IPC/fifo_write.c)  
 ---
 * 信号
 > 信号是一种比较复杂的通信方式，用于通知接收进程某个事件已经发生。
