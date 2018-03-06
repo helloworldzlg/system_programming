@@ -24,11 +24,11 @@
 > 信号是一种比较复杂的通信方式，用于通知接收进程某个事件已经发生。
 发送信号的函数主要有：kill()、raise()、alarm()、pause()
 
-	* 信号的产生
-	[kill](../06_IPC/kill.c)  
-	[raise](../06_IPC/kill.c)  
-	[alarm](../06_IPC/alarm_demo.c)  
-	[pause](../06_IPC/pause_demo.c)  
+	* 信号的产生  
+[kill](../06_IPC/kill.c)  
+[raise](../06_IPC/kill.c)  
+[alarm](../06_IPC/alarm_demo.c)  
+[pause](../06_IPC/pause_demo.c)  
 	* 信号的处理
 ---
 * 信号量
